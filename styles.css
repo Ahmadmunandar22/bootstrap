@@ -1,0 +1,28 @@
+.container, 
+.container-fluid {
+    width: 1200px;
+}
+.navbar-brand img{
+    max-height: 80px !important;
+}
+.carousel-inner .carousel-item {
+    max-height: 720px;
+    object-fit:cover;
+    ;
+}
+.icon i {
+    font-size: 60px;
+}
+.container .row img {
+    max-height: 200px;
+    
+    width: auto;
+}
+.container .row h5{
+    text-align: bottom;
+    font-family: sans-serif;
+}
+.container .row p {
+    text-align:bottom;
+    font-family: sans-serif;
+}
